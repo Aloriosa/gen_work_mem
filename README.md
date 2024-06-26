@@ -3,7 +3,11 @@ This repo contains the implementation of the method for augmenting the Transform
 The method was firstly presented [here](https://doi.org/10.1007/978-3-030-91581-0_34).
 
 # Running the training and evaluation
-See the `run.py` script for initial training of the model on TED dataset followed by the fine-tuning on Open Subtitles dataset.
+1. Install the required packages
+```bash
+pip install -r requirements.txt
+```
+2. See the `run.py` script for initial training of the model on TED dataset followed by the fine-tuning on Open Subtitles dataset.
 ```bash
 python run.py
 ```
