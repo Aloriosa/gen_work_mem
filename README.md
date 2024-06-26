@@ -1,6 +1,6 @@
 # Generative working memory in Transformer decoder
 This repo contains the implementation of the method for augmenting the Transformer with working memory in decoder.
-The method was firstly presented [here](https://doi.org/10.1007/978-3-030-91581-0_34).
+The method was firstly presented in [Extending Transformer Decoder with Working Memory for Sequence to Sequence Tasks](https://doi.org/10.1007/978-3-030-91581-0_34) and further discussed and analyzed in [Complexity of Symbolic Representation in Working Memory of Transformer Correlates with the Complexity of a Task](https://arxiv.org/abs/2406.14213).
 
 # Running the training and evaluation
 1. Install the required packages
